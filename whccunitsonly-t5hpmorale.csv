@@ -1,0 +1,69 @@
+Name,Type,Tier,Morale,T5HP
+Beasts of Nurgle,monstrous_beasts,5,72,3350
+Bile Trolls of Chaos,monstrous_infantry,3,65,993.75
+Bloodcrushers of Khorne,cavalry,3,56,812
+Bloodletters of Khorne,infantry,2,56,173.0769231
+Blue Horrors,infantry,2,56,197.3076923
+Burning Chariots of Tzeentch,chariots,5,62,1320
+Chaos Chariot,chariots,2,52,430.7692308
+Chaos Chosen,infantry,4,56,857.1428571
+Chaos Giants,monstrous_beasts,3,80,720
+Chaos Knight,cavalry,4,45,1142.857143
+Chaos Knight of Khorne,cavalry,4,56,1040.714286
+Chaos Knight of Nurgle,cavalry,4,50,1491.428571
+Chaos Knight of Slaanesh,cavalry,4,69,1214.285714
+Chaos Knight of Tzeentch,cavalry,4,60,1214.285714
+Chaos Ogres,monstrous_infantry,3,48,570
+Chaos Spawn,monstrous_beasts,2,80,221.5384615
+Chaos Spawn of Khorne,monstrous_beasts,2,75,145.3846154
+Chaos Spawn of Nurgle,monstrous_beasts,2,49,196.9230769
+Chaos Spawn of Slaanesh,monstrous_beasts,2,40,173.0769231
+Chaos Spawn of Tzeentch,monstrous_beasts,2,49,207.6923077
+Chaos Trolls,monstrous_infantry,4,66,1474.285714
+Chaos Warhounds,war_beasts,1,40,118.75
+Chaos Warriors,infantry,3,56,440
+Chaos Warriors of Khorne,infantry,3,53,400
+Chaos Warriors of Nurgle,infantry,3,62,825
+Chaos Warriors of Slaanesh,infantry,3,49,414
+Chaos Warriors of Tzeentch,infantry,3,62,1020
+Chimera,monsters,4,40,857.1428571
+Crowhunger Brethren,infantry,4,55,1520
+Daemon Prince of Khorne,monsters,5,72,1987.5
+Daemon Prince of Nurgle,monsters,5,50,1905
+Daemon Prince of Slaanesh,monsters,5,55,1620
+Daemon Prince of Tzeentch,monsters,5,66,2493.75
+Daemonettes of Slaanesh,infantry,3,60,330
+Dragon Ogres,monstrous_beasts,4,64,1260
+Fiends of Slaanesh,monstrous_beasts,4,56,900
+Flesh Hounds of Khorne,war_beasts,4,56,797.1428571
+Forsaken,infantry,2,56,270.7692308
+Forsaken of Khorne,infantry,3,56,352
+Gorebeast Chariot,chariots,4,52,1350
+Greater Chaos Spawn,monsters,4,64,1044.285714
+Hellcannon,monsters,3,40,855
+Hellflayers of Slaanesh,chariots,5,60,2320
+Hellstriders of Slaanesh,cavalry,3,61,640
+Kaldour's Knights,infantry,4,49,609.7142857
+Khorngor,monstrous_infantry,4,72,1532.142857
+Marauder,infantry,1,48,118.75
+Marauder Horsemen,cavalry,2,56,233.8461538
+Mutalith Vortex Beasts,monsters,4,67,1475.357143
+Nurglings,infantry,2,56,190
+Pestigor,monstrous_infantry,4,60,1217.857143
+Pink Horrors of Tzeentch,infantry,3,56,286
+Plague Drones of Nurgle,monstrous_cavalry,4,60,857.1428571
+Plaguebearers of Nurgle,infantry,3,60,516.25
+Rune Caller Curs'd Ettin,monsters,5,58,2138.75
+Screamers of Tzeentch,war_beasts,4,58,642.8571429
+Serpent of Slaanesh,war_beasts,2,56,190
+Skin Wolves,monstrous_infantry,5,64,2137.5
+Skull Cannons of Khorne,chariots,5,56,2025
+Skullcrusher of Khorne,monstrous_cavalry,5,74,2500
+Slaangor,monstrous_infantry,4,55,840
+Slaughter Brutes,monstrous_beasts,3,47,600
+Sons of Nifflecht,infantry,5,60,1500
+The Skull Takers,infantry,4,57,1114.285714
+The Swords of Chaos,cavalry,4,56,1142.857143
+The Tormentors,chariots,4,70,1372.857143
+Tzaangor,monstrous_infantry,4,58,400
+Tzeentch Sorcerer,infantry,3,64,625
