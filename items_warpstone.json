@@ -1,0 +1,2265 @@
+[
+  {
+    "itemname": "boost_3m",
+    "subtype": "category_speedup",
+    "Warpstone": 8,
+    "Alliance Coins": 2000
+  },
+  {
+    "itemname": "boost_15m",
+    "subtype": "category_speedup",
+    "Warpstone": 36,
+    "Alliance Coins": 6500
+  },
+  {
+    "itemname": "boost_1h",
+    "subtype": "category_speedup",
+    "Warpstone": 140,
+    "Alliance Coins": 20000
+  },
+  {
+    "itemname": "boost_3h",
+    "subtype": "category_speedup",
+    "Warpstone": 410,
+    "Alliance Coins": 55000
+  },
+  {
+    "itemname": "boost_8h",
+    "subtype": "category_speedup",
+    "Warpstone": 1080
+  },
+  {
+    "itemname": "boost_15h",
+    "subtype": "category_speedup",
+    "Warpstone": 1920
+  },
+  {
+    "itemname": "boost_1d",
+    "subtype": "category_speedup",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "boost_3d",
+    "subtype": "category_speedup",
+    "Warpstone": 8200
+  },
+  {
+    "itemname": "boost_10d",
+    "subtype": "category_speedup",
+    "Warpstone": 24000
+  },
+  {
+    "itemname": "boost_20d",
+    "subtype": "category_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_3m",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_15m",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_1h",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_3h",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_8h",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_15h",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_1d",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_3d",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_non_hospital_10d",
+    "subtype": "category_training_speedup"
+  },
+  {
+    "itemname": "boost_structure_3m",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_15m",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_1h",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_3h",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_8h",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_15h",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_1d",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_3d",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_structure_10d",
+    "subtype": "category_structure_speedup"
+  },
+  {
+    "itemname": "boost_research_3m",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_15m",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_1h",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_3h",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_8h",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_15h",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_1d",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_3d",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_research_10d",
+    "subtype": "category_research_speedup"
+  },
+  {
+    "itemname": "boost_hospital_3m",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "boost_hospital_15m",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "boost_hospital_1h",
+    "subtype": "category_hospital_speedup",
+    "Warpstone": 115,
+    "Alliance Coins": 16000
+  },
+  {
+    "itemname": "boost_hospital_3h",
+    "subtype": "category_hospital_speedup",
+    "Warpstone": 325,
+    "Alliance Coins": 44000
+  },
+  {
+    "itemname": "boost_hospital_8h",
+    "subtype": "category_hospital_speedup",
+    "Warpstone": 860
+  },
+  {
+    "itemname": "boost_hospital_15h",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "boost_hospital_1d",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "boost_hospital_3d",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "boost_hospital_10d",
+    "subtype": "category_hospital_speedup"
+  },
+  {
+    "itemname": "currency3_30k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 48
+  },
+  {
+    "itemname": "currency3_150k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 240
+  },
+  {
+    "itemname": "currency3_500k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 792
+  },
+  {
+    "itemname": "currency3_2m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "currency3_6m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 8000
+  },
+  {
+    "itemname": "currency3_30m",
+    "subtype": "category_currencyitem"
+  },
+  {
+    "itemname": "currency4_30k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 48
+  },
+  {
+    "itemname": "currency4_150k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 240
+  },
+  {
+    "itemname": "currency4_500k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 792
+  },
+  {
+    "itemname": "currency4_2m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "currency4_6m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 8000
+  },
+  {
+    "itemname": "currency4_30m",
+    "subtype": "category_currencyitem"
+  },
+  {
+    "itemname": "currency5_30k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 48
+  },
+  {
+    "itemname": "currency5_150k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 240
+  },
+  {
+    "itemname": "currency5_500k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 792
+  },
+  {
+    "itemname": "currency5_2m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "currency5_6m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 8000
+  },
+  {
+    "itemname": "currency5_30m",
+    "subtype": "category_currencyitem"
+  },
+  {
+    "itemname": "currency6_30k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 48
+  },
+  {
+    "itemname": "currency6_150k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 240
+  },
+  {
+    "itemname": "currency6_500k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 792
+  },
+  {
+    "itemname": "currency6_2m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "currency6_6m",
+    "subtype": "category_currencyitem",
+    "Warpstone": 8000
+  },
+  {
+    "itemname": "currency6_30m",
+    "subtype": "category_currencyitem"
+  },
+  {
+    "itemname": "currency7_3k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 30
+  },
+  {
+    "itemname": "currency7_15k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 160
+  },
+  {
+    "itemname": "currency7_50k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 500
+  },
+  {
+    "itemname": "currency7_200k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 1500
+  },
+  {
+    "itemname": "currency7_600k",
+    "subtype": "category_currencyitem",
+    "Warpstone": 3100
+  },
+  {
+    "itemname": "currency7_3m",
+    "subtype": "category_currencyitem"
+  },
+  {
+    "itemname": "boost_currency3_1d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 100,
+    "Alliance Coins": 7500
+  },
+  {
+    "itemname": "boost_currency3_7d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 550,
+    "Alliance Coins": 35000
+  },
+  {
+    "itemname": "boost_currency4_1d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 100,
+    "Alliance Coins": 7500
+  },
+  {
+    "itemname": "boost_currency4_7d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 550,
+    "Alliance Coins": 35000
+  },
+  {
+    "itemname": "boost_currency5_1d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 100,
+    "Alliance Coins": 7500
+  },
+  {
+    "itemname": "boost_currency5_7d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 550,
+    "Alliance Coins": 35000
+  },
+  {
+    "itemname": "boost_currency6_1d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 100,
+    "Alliance Coins": 7500
+  },
+  {
+    "itemname": "boost_currency6_7d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 550,
+    "Alliance Coins": 35000
+  },
+  {
+    "itemname": "boost_currency7_1d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 200,
+    "Alliance Coins": 15000
+  },
+  {
+    "itemname": "boost_currency7_7d",
+    "subtype": "category_currencyboosts",
+    "Warpstone": 1100,
+    "Alliance Coins": 70000
+  },
+  {
+    "itemname": "hero_xp_1k",
+    "subtype": "category_heroxp"
+  },
+  {
+    "itemname": "hero_xp_5k",
+    "subtype": "category_heroxp",
+    "Warpstone": 250,
+    "Alliance Coins": 20000
+  },
+  {
+    "itemname": "hero_xp_20k",
+    "subtype": "category_heroxp",
+    "Warpstone": 875
+  },
+  {
+    "itemname": "hero_xp_100k",
+    "subtype": "category_heroxp",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "hero_xp_500k",
+    "subtype": "category_heroxp",
+    "Warpstone": 11250
+  },
+  {
+    "itemname": "shield_8h",
+    "subtype": "category_shielditems",
+    "Warpstone": 250,
+    "Alliance Coins": 75000
+  },
+  {
+    "itemname": "shield_1d",
+    "subtype": "category_shielditems",
+    "Warpstone": 720
+  },
+  {
+    "itemname": "shield_3d",
+    "subtype": "category_shielditems",
+    "Warpstone": 2000
+  },
+  {
+    "itemname": "shield_3h",
+    "subtype": "category_shielditems"
+  },
+  {
+    "itemname": "antiscout_1d",
+    "subtype": "category_radarjamming",
+    "Warpstone": 450
+  },
+  {
+    "itemname": "antiscout_7d",
+    "subtype": "category_radarjamming",
+    "Warpstone": 3100
+  },
+  {
+    "itemname": "fake_army_8h",
+    "subtype": "category_fake_army",
+    "Warpstone": 150
+  },
+  {
+    "itemname": "vip_time_30m",
+    "subtype": "category_viptime"
+  },
+  {
+    "itemname": "vip_time_1h",
+    "subtype": "category_viptime"
+  },
+  {
+    "itemname": "vip_time_2h",
+    "subtype": "category_viptime"
+  },
+  {
+    "itemname": "vip_time_6h",
+    "subtype": "category_viptime"
+  },
+  {
+    "itemname": "vip_time_1d",
+    "subtype": "category_viptime",
+    "Warpstone": 200
+  },
+  {
+    "itemname": "vip_time_7d",
+    "subtype": "category_viptime",
+    "Warpstone": 1200
+  },
+  {
+    "itemname": "vip_time_30d",
+    "subtype": "category_viptime",
+    "Warpstone": 3400
+  },
+  {
+    "itemname": "vip_points_150",
+    "subtype": "category_vippoints",
+    "Warpstone": 125,
+    "Alliance Coins": 10000
+  },
+  {
+    "itemname": "vip_points_300",
+    "subtype": "category_vippoints",
+    "Warpstone": 250
+  },
+  {
+    "itemname": "vip_points_1000",
+    "subtype": "category_vippoints",
+    "Warpstone": 720
+  },
+  {
+    "itemname": "vip_points_5000",
+    "subtype": "category_vippoints",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "new_missions_category1",
+    "subtype": "category_quest_refreshes",
+    "Warpstone": 625,
+    "Alliance Coins": 45000
+  },
+  {
+    "itemname": "new_missions_category2",
+    "subtype": "category_quest_refreshes",
+    "Warpstone": 650,
+    "Alliance Coins": 50000
+  },
+  {
+    "itemname": "city_relocate_newbie",
+    "subtype": "category_teleports"
+  },
+  {
+    "itemname": "city_relocate",
+    "subtype": "category_teleports"
+  },
+  {
+    "itemname": "city_teleport",
+    "subtype": "category_teleports",
+    "Warpstone": 800,
+    "Alliance Coins": 175000
+  },
+  {
+    "itemname": "city_teleport_random",
+    "subtype": "category_teleports",
+    "Warpstone": 400,
+    "Alliance Coins": 50000
+  },
+  {
+    "itemname": "city_invade",
+    "subtype": "category_teleports",
+    "Warpstone": 500,
+    "Alliance Coins": 150000
+  },
+  {
+    "itemname": "city_invade_primary",
+    "subtype": "category_war_masters_store",
+    "Warpstone": 4000,
+    "Alliance Coins": 500000
+  },
+  {
+    "itemname": "carrier_xp_token",
+    "subtype": "category_tokens",
+    "Warpstone": 10,
+    "Alliance Coins": 2500
+  },
+  {
+    "itemname": "march_25_percent_boost",
+    "subtype": "category_marchitems",
+    "Warpstone": 1050
+  },
+  {
+    "itemname": "march_50_percent_boost",
+    "subtype": "category_marchitems",
+    "Warpstone": 2000
+  },
+  {
+    "itemname": "march_25_percent_capacity",
+    "subtype": "category_marchitems",
+    "Warpstone": 120,
+    "Alliance Coins": 15000
+  },
+  {
+    "itemname": "march_50_percent_capacity",
+    "subtype": "category_marchitems",
+    "Warpstone": 235
+  },
+  {
+    "itemname": "rally_25_percent_boost",
+    "subtype": "category_rallyitems",
+    "Warpstone": 1600
+  },
+  {
+    "itemname": "rally_50_percent_boost",
+    "subtype": "category_rallyitems",
+    "Warpstone": 3150
+  },
+  {
+    "itemname": "rally_recall",
+    "subtype": "category_recall",
+    "Warpstone": 500
+  },
+  {
+    "itemname": "combat_melee_attack_boost_12h",
+    "subtype": "category_combatboosts",
+    "Warpstone": 120,
+    "Alliance Coins": 15000
+  },
+  {
+    "itemname": "combat_ranged_attack_boost_12h",
+    "subtype": "category_combatboosts",
+    "Warpstone": 120,
+    "Alliance Coins": 15000
+  },
+  {
+    "itemname": "combat_melee_attack_boost_1d",
+    "subtype": "category_combatboosts",
+    "Warpstone": 230
+  },
+  {
+    "itemname": "combat_ranged_attack_boost_1d",
+    "subtype": "category_combatboosts",
+    "Warpstone": 230
+  },
+  {
+    "itemname": "combat_armour_boost_12h",
+    "subtype": "category_combatboosts",
+    "Warpstone": 230,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "combat_armour_boost_1d",
+    "subtype": "category_combatboosts",
+    "Warpstone": 450
+  },
+  {
+    "itemname": "combat_melee_damage_boost_12h",
+    "subtype": "category_combatboosts",
+    "Warpstone": 230,
+    "Alliance Coins": 30000
+  },
+  {
+    "itemname": "combat_melee_damage_boost_1d",
+    "subtype": "category_combatboosts",
+    "Warpstone": 450
+  },
+  {
+    "itemname": "combat_ranged_damage_boost_12h",
+    "subtype": "category_combatboosts",
+    "Warpstone": 230,
+    "Alliance Coins": 30000
+  },
+  {
+    "itemname": "combat_ranged_damage_boost_1d",
+    "subtype": "category_combatboosts",
+    "Warpstone": 450
+  },
+  {
+    "itemname": "march_gather_boost_1h",
+    "subtype": "category_gatheringbuffs"
+  },
+  {
+    "itemname": "march_gather_boost_24h",
+    "subtype": "category_gatheringbuffs",
+    "Warpstone": 550,
+    "Alliance Coins": 50000
+  },
+  {
+    "itemname": "march_gather_boost_7d",
+    "subtype": "category_gatheringbuffs",
+    "Warpstone": 3000
+  },
+  {
+    "itemname": "player_rename",
+    "subtype": "category_rename",
+    "Warpstone": 50,
+    "Alliance Coins": 10000
+  },
+  {
+    "itemname": "alliance_rename",
+    "subtype": "category_rename",
+    "Warpstone": 100,
+    "Alliance Coins": 10000
+  },
+  {
+    "itemname": "hero_rename",
+    "subtype": "category_hero_rename",
+    "Warpstone": 120,
+    "Alliance Coins": 10000
+  },
+  {
+    "itemname": "hero_skill_reset",
+    "subtype": "category_reset",
+    "Warpstone": 1000
+  },
+  {
+    "itemname": "hero_monster_skill_reset",
+    "subtype": "category_reset",
+    "Warpstone": 1000
+  },
+  {
+    "itemname": "hero_icon",
+    "subtype": "category_icon",
+    "Warpstone": 120
+  },
+  {
+    "itemname": "player_icon",
+    "subtype": "category_icon",
+    "Warpstone": 120
+  },
+  {
+    "itemname": "structure_move",
+    "subtype": "category_misc"
+  },
+  {
+    "itemname": "mobile_outpost_vehicle",
+    "subtype": "category_mov",
+    "Warpstone": 500,
+    "Alliance Coins": 125000
+  },
+  {
+    "itemname": "march_recall",
+    "subtype": "category_recall",
+    "Warpstone": 80,
+    "Alliance Coins": 5000
+  },
+  {
+    "itemname": "builders_boost_2d",
+    "subtype": "category_queues",
+    "Warpstone": 160
+  },
+  {
+    "itemname": "builders_boost_7d",
+    "subtype": "category_queues"
+  },
+  {
+    "itemname": "builders_boost_30d",
+    "subtype": "category_queues"
+  },
+  {
+    "itemname": "study_boost_2d",
+    "subtype": "category_queues",
+    "Warpstone": 160
+  },
+  {
+    "itemname": "study_boost_7d",
+    "subtype": "category_queues"
+  },
+  {
+    "itemname": "study_boost_30d",
+    "subtype": "category_queues"
+  },
+  {
+    "itemname": "component_core_premium_warpstone_star",
+    "subtype": "category_core_components",
+    "Warpstone": 250
+  },
+  {
+    "itemname": "component_core_khorne_offering_of_skulls",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_nurgle_pestilent_flesh",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_tzeentch_sorcerous_vessel",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_slaanesh_amulet_of_torment",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_infernal_girmoire",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_fel_magic_scrolls",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_moot_leather",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_refined_steel",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_defiled_bone",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_captured_plans",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_blood_of_the_fallen",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_core_bound_screams",
+    "subtype": "category_core_components",
+    "Warpstone": 20
+  },
+  {
+    "itemname": "component_unit_icon_of_the_gods",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_captured_gorebeast",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_chaos_steeds",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_rancid_carrion",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_unstable_magics",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_sacrificial_slaves",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_lightning_essence",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_offering_of_brass",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_bound_fury_bait",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_rot_fly_pupae",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_daemonic_musk",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_gaze_of_a_dark_god",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_favour_of_khorne",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_flask_of_skin_wolf_blood",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_tzeentchain_flame",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_tentacle_of_a_beast",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_silvered_blade",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_standard_of_sensation",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_banner_of_corruption",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_sigil_of_mutation",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_icon_of_rage",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_tome_of_knowledge",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_bubonic_flesh",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_ensnared_elven_souls",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_vessel_of_wrath",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_eye_of_spawn",
+    "subtype": "category_unit_components",
+    "Warpstone": 100,
+    "Alliance Coins": 25000
+  },
+  {
+    "itemname": "component_unit_rune_etched_flesh",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_unit_ice_encrusted_horn",
+    "subtype": "category_unit_components",
+    "Warpstone": 250,
+    "Alliance Coins": 62500
+  },
+  {
+    "itemname": "component_soul_fragment_core",
+    "subtype": "category_tokens"
+  },
+  {
+    "itemname": "component_soul_fragment_uncommon",
+    "subtype": "category_tokens"
+  },
+  {
+    "itemname": "component_soul_fragment_rare",
+    "subtype": "category_tokens"
+  },
+  {
+    "itemname": "component_soul_fragment_epic",
+    "subtype": "category_tokens"
+  },
+  {
+    "itemname": "component_soul_fragment_legendary",
+    "subtype": "category_tokens"
+  },
+  {
+    "itemname": "bundle_warlord_pack_wave_1",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "locked_warlord_pack_wave_1",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "treasure_of_eataine",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "bundle_warlord_pack_epic",
+    "subtype": "category_warlord_chests",
+    "Warpstone": 650
+  },
+  {
+    "itemname": "bundle_warlord_pack_karanak",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "bundle_warlord_pack_daemonspew",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "bundle_warlord_pack_blue_scribes",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "bundle_warlord_pack_azazel",
+    "subtype": "category_warlord_chests"
+  },
+  {
+    "itemname": "locked_warlord_pack_tutorial_only",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "hero_energy_100",
+    "subtype": "category_heroenergy",
+    "Warpstone": 180
+  },
+  {
+    "itemname": "hero_energy_500",
+    "subtype": "category_heroenergy",
+    "Warpstone": 800,
+    "Alliance Coins": 100000
+  },
+  {
+    "itemname": "hero_energy_1000",
+    "subtype": "category_heroenergy",
+    "Warpstone": 1550
+  },
+  {
+    "itemname": "hero_energy_5000",
+    "subtype": "category_heroenergy"
+  },
+  {
+    "itemname": "bundle_normal_crafting_crate",
+    "subtype": "category_chests",
+    "Warpstone": 500
+  },
+  {
+    "itemname": "bundle_superior_crafting_crate",
+    "subtype": "category_chests",
+    "Warpstone": 2000
+  },
+  {
+    "itemname": "bundle_legendary_crafting_crate",
+    "subtype": "category_chests",
+    "Warpstone": 3250
+  },
+  {
+    "itemname": "bundle_basic_speedup_chest",
+    "subtype": "category_chests",
+    "Warpstone": 3600
+  },
+  {
+    "itemname": "bundle_speedup_chest",
+    "subtype": "category_chests",
+    "Warpstone": 20500
+  },
+  {
+    "itemname": "bundle_expert_speedup_chest",
+    "subtype": "category_chests",
+    "Warpstone": 40000
+  },
+  {
+    "itemname": "bundle_expert_resource_chest",
+    "subtype": "category_chests",
+    "Warpstone": 12500
+  },
+  {
+    "itemname": "bundle_expert_experience_chest",
+    "subtype": "category_chests",
+    "Warpstone": 42500
+  },
+  {
+    "itemname": "player_move_pack",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "returning_player_pack",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "daily_trial_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "superior_daily_trial_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "premium_shop_free_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "vanquish_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "rvr_championship_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "currency13_10",
+    "subtype": "category_war_masters_store"
+  },
+  {
+    "itemname": "currency11_10",
+    "subtype": "category_war_masters_store"
+  },
+  {
+    "itemname": "currency10_10",
+    "subtype": "category_war_masters_store"
+  },
+  {
+    "itemname": "small_frozen_chest",
+    "subtype": "category_shareable_chest"
+  },
+  {
+    "itemname": "large_frozen_chest",
+    "subtype": "category_shareable_chest"
+  },
+  {
+    "itemname": "thundertusk_treasure_chest",
+    "subtype": "category_shareable_chest"
+  },
+  {
+    "itemname": "component_crafting_rough_leather",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_frayed_cloth",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_chains",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_rope",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_bone",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_teeth",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_rock",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_treated_lumber",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_salvaged_armour",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_blasting_powder",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_glass",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_steel",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_cotton",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_tanned_hide",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_bronze",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_grissled_sinew",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_orc_teef",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_manticore_spoor",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_chimera_egg",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_dwarf_axe_head",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_cockatrice_feather",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_fine_steel",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_elixier",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_worked_gromril",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_noble_blood",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_precious_gem",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_orcish_bone_trinkets",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_goblin_fungus",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_jade_idol",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_catalogue_of_flesh",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_gaze_of_the_gods",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_bugmans_brew",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_new_rune",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "champion_equipment_crown_of_the_leper",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_jerkin_of_flux",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_vambraces_of_gore",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_sword_of_decadence",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_jagged_greaves",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_pendant_of_shattering",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_staff_of_mutation",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_inviolate_hood",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_carapace_of_decay",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_entrancing_tome",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_mirrored_spaulders",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_warping_tassets",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_undulating_haulberk",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_suppurating_gauntlets",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_cleaver_of_bile",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_blood_soaked_greaves",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_brass_helm",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_wand_of_illusions",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_mesmerising_pauldrons",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_breastplate_of_fury",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_maggot_standard",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_vampiric_lash",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_scintillating_helm",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_bubo_encrusted_sabatons",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_flame_wreathed_bracers",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chausses_of_sensation",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_burning_cuirass",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_mask_of_excess",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_collar_of_khorne",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_axe_of_sundering",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "component_crafting_feather_fetish",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_squig_skin_bag",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_carved_boar_tusk",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_smashed_dwarf_helm",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_slayer_braid",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_flayed_slayer_flesh",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_tribal_sigil",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_vial_of_troll_bile",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_troll_hoard",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_black_orc_eye",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_seal_of_sigmar",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_helm_plume",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_reiksguard_standard",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_rune_talisman",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_shattered_rune",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_rune_hammer",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_book_of_runes",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_armour_plating",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_spyglass",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_pressure_gauge",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_steam_chimney",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_centigor_horn",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_chipped_buckler",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_centigor_paw",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_foul_beer",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_beastman_pelt",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_dark_offerings",
+    "subtype": "category_crafting_components",
+    "Warpstone": 50
+  },
+  {
+    "itemname": "champion_equipment_writhing_cuirass_of_destiny",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_crown_of_everlasting_conquest",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_pavise_of_filth",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_transmuting_vambraces",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_wand_of_decadence",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_maggot_plate_of_rot",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_gauntlets_of_damnation",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_grim_hammer_of_maiming",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_bloody_greaves_of_slaughter",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_runesmith_chest",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_runesmith_relic",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_runesmith_helmet",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_tormenting_man_catcher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_calming_icon_of_sloth",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_brand_of_hashut",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_helm_of_many_eyes",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_murderous_cuirass_of_butcher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_sabatons_of_mockery",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_bracers_of_command",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_greaves_of_stench",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_helm_of_avarice",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "component_crafting_icon_of_sigmar",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_helm",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_chestplate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_hands",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_relic",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_legs",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_chaos_gear_weapon",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "component_crafting_skull_of_the_dammed",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_hounds_tooth",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "champion_equipment_headmans_skull_cloak",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_headsmans_blazing_sword",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "component_crafting_jabberslythe_hide",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_blood_fruit",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_bloodstone",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_cordial_of_tzeentch",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_death_head_of_nurgle",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_barbed_silk_of_slannesh",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "champion_equipment_great_helm_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_plate_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_hellfire_sword_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_blazing_talisman_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_sabatons_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_vambraces_of_the_vanquisher",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "component_crafting_pantheon_star",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "component_crafting_ithilmar_shards",
+    "subtype": "category_crafting_components"
+  },
+  {
+    "itemname": "champion_equipment_bloody_executioners_hood",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_brigandine_of_spite",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_hexagrammic_mace",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_mask_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_carapace_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_spaulders_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_flail_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_sabatons_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_fetish_of_blinding_hate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_winged_helm",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_breastplate",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_scaled_bracers",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_halberd",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_scaled_greaves",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_elfslayer_bejeweled_ring",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_bestial_cloven_boots",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_horn_of_the_great_hunt",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "core_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "uncommon_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "rare_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "epic_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "legendary_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "squig_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "legendary_warlord_event_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_3_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_4_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_5_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_6_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_7_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_8_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_3_foe_rank_9_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_3_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_4_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_5_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_6_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_7_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_8_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_7_foe_rank_9_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_4_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_5_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_6_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_7_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_8_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_9_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_10_foe_rank_10_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_4_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_5_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_6_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_7_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_8_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_9_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_12_foe_rank_10_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_large_foes_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_1_greenskin_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_1_greenskin_large_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_2_dwarf_expedition_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_2_dwarf_expedition_large_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_2_dwarf_expedition_equipment_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_4_reiksguard_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_4_reiksguard_large_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "meager_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "small_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "medium_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "large_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "mammoth_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "event_large_phylactery_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_5_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_10_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_20_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_35_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_50_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_75_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_60_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_150_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_250_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_750_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_500_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_1500_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "tier_3000_loyalty",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "small_elven_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "large_elven_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_5_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_6_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_7_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_8_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_9_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "elven_foe_rank_10_chest",
+    "subtype": "category_chests"
+  },
+  {
+    "itemname": "default_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "blood_bastion_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "blighted_stronghold_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "palace_of_rapture_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "shifting_spire_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "hellcannon_fortress_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "epic_hellcannon_fortress_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "norsca_fortress_city_skin",
+    "subtype": "category_city_skins",
+    "Warpstone": 2000
+  },
+  {
+    "itemname": "desecrated_elven_fortress_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "twisting_tower_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "blood_fountain_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "dragon_bone_fortress_city_skin",
+    "subtype": "category_city_skins"
+  },
+  {
+    "itemname": "doom_knight_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "dragon_ogre_shaggoth_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "chosen_standard_bearer_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "chosen_champion_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "herald_of_khorne_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "herald_of_tzeentch_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "herald_of_slaanesh_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "herald_of_nurgle_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "chaos_sorcerer_on_manticore_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "skullhunter_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "daemon_prince_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "the_changeling_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "masque_of_slaanesh_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "pox_rider_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "keeper_of_secrets_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "great_unclean_one_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "bloodthirster_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "mounted_exalted_hero_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "lord_of_change_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "slambo_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "war_mammoth_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "skulltaker_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "gutrot_spume_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "vilitch_the_cursling_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "sigvald_the_magnificent_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "throgg_king_of_trolls_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "jabberslythe_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "karanak_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "daemonspew_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "blue_scribes_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "azazel_favour",
+    "subtype": "category_favour"
+  },
+  {
+    "itemname": "component_soul_fragment_core_legacy",
+    "subtype": "category_tokens_legacy"
+  },
+  {
+    "itemname": "component_soul_fragment_uncommon_legacy",
+    "subtype": "category_tokens_legacy"
+  },
+  {
+    "itemname": "component_soul_fragment_rare_legacy",
+    "subtype": "category_tokens_legacy"
+  },
+  {
+    "itemname": "component_soul_fragment_epic_legacy",
+    "subtype": "category_tokens_legacy"
+  },
+  {
+    "itemname": "component_soul_fragment_legendary_legacy",
+    "subtype": "category_tokens_legacy"
+  },
+  {
+    "itemname": "champion_equipment_skull_gauntlets",
+    "subtype": "category_gear"
+  },
+  {
+    "itemname": "champion_equipment_skull_helm",
+    "subtype": "category_gear"
+  }
+]
